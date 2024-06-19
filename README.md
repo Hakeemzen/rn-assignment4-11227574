@@ -16,7 +16,9 @@ This project is a React Native application that includes a login screen and a ho
 ### HomeScreen
 - **Usage**: Displays the user's name and email passed from the `LoginScreen`. It also shows sections for popular and featured jobs, using the `JobCard` component to list job cards.
 
-
+### Screenshot
+![Login Screen](./hk1.jpeg)
+![Home Screen](./hk2.jpeg)
 
 
 
